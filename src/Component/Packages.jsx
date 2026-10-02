@@ -1,5 +1,7 @@
 import React from 'react'
-import img from './assets/drees-gallary.jpg'
+import img from './assets/slider-img.jpg'
+import img1 from './assets/bridel-img.jpg'
+import img2 from './assets/slider-2.jpg'
 
 const Packages = () => {
   return (
@@ -29,7 +31,7 @@ const Packages = () => {
             <div className="col-md-6 col-lg-4">
 
               <div className="package-card">
-<img  src={img} alt="" />
+<img  src={img2} alt="dress img" />
                 <span className="package-label">
                   ESSENTIAL
                 </span>
@@ -69,6 +71,7 @@ const Packages = () => {
                 <div className="popular-badge">
                   MOST POPULAR
                 </div>
+<img  src={img1} alt="dress img" />
 
                 <span className="package-label">
                   SIGNATURE
@@ -105,6 +108,7 @@ const Packages = () => {
             <div className="col-md-6 col-lg-4">
 
               <div className="package-card">
+<img  src={img} alt="dress img" />
 
                 <span className="package-label">
                   PREMIUM
