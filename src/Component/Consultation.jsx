@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Cta = () => {
+const Consultation = () => {
   return (
           <section id='consultation' className="cta-section">
 
@@ -39,4 +39,4 @@ const Cta = () => {
   )
 }
 
-export default Cta
+export default Consultation

@@ -163,7 +163,7 @@ const ZRNavbar = () => {
               className={activeLink === '#pricing' ? 'active' : ''}
               onClick={() => setActiveLink('#pricing')}
             >
-              Pricing
+              Packages
             </Nav.Link>
             <Nav.Link 
               href="#about" 

@@ -7,9 +7,9 @@ import State from './Component/State'
 import Services from './Component/Services'
 import About from './Component/About'
 import Gallary from './Component/Gallary'
-import Packages from './Component/Packages'
+import Packages from './Component/Packagescd '
 import Testimonial from './Component/Testimonial'
-import Cta from './Component/Cta'
+import Consultation from './Component/Consultation'
 import Footer from './Component/Footer'
 // import Navbar  from './Component/Navbar';
 import ZRNavbar from './Component/Navbar';
@@ -22,13 +22,12 @@ const App = () => {
 <Hero/>
 <State/>
 <IndividualIntervalsExample/>
-
 <Services/>
 <About/>
 <Gallary/>
 <Packages/>
 <Testimonial/>
-<Cta/>
+<Consultation/>
 <Footer/>
 
 </>

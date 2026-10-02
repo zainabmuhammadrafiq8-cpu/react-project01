@@ -31,14 +31,6 @@ const Services = () => {
               <div className="service-card">
 
 <img src={img} alt="drees image"  className='img-style'/>
-                {/* <div className="service-number">
-                  01
-                </div>
-
-                <div className="service-icon">
-                  ♡
-                </div> */}
-
                 <h3>
                   Bridal Wear
                 </h3>
@@ -59,13 +51,6 @@ const Services = () => {
             <div className="col-md-4">
               <div className="service-card featured-service">
 
-                {/* <div className="service-number">
-                  02
-                </div>
-
-                <div className="service-icon">
-                  ✦
-                </div> */}
 <img src={img1} alt="drees image" className='img-style' />
 
                 <h3>
@@ -88,13 +73,6 @@ const Services = () => {
             <div className="col-md-4">
               <div className="service-card">
 
-                {/* <div className="service-number">
-                  03
-                </div>
-
-                <div className="service-icon">
-                  ✂
-                </div> */}
 <img src={img2} alt="drees image" className='img-style' />
 
                 <h3>
