@@ -11,7 +11,6 @@ import Packages from './Component/Packages'
 import Testimonial from './Component/Testimonial'
 import Consultation from './Component/Consultation'
 import Footer from './Component/Footer'
-// import Navbar  from './Component/Navbar';
 import ZRNavbar from './Component/Navbar';
 import IndividualIntervalsExample from './Component/IndividualIntervalsExample';
 

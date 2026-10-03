@@ -30,7 +30,7 @@ const Services = () => {
             <div className="col-md-4">
               <div className="service-card">
 
-<img src={img} alt="drees image"  className='img-style'/>
+<img src={img} alt="drees"  className='img-style'/>
                 <h3>
                   Bridal Wear
                 </h3>
@@ -51,7 +51,7 @@ const Services = () => {
             <div className="col-md-4">
               <div className="service-card featured-service">
 
-<img src={img1} alt="drees image" className='img-style' />
+<img src={img1} alt="drees " className='img-style' />
 
                 <h3>
                   Casual Stitching
@@ -73,7 +73,7 @@ const Services = () => {
             <div className="col-md-4">
               <div className="service-card">
 
-<img src={img2} alt="drees image" className='img-style' />
+<img src={img2} alt="drees " className='img-style' />
 
                 <h3>
                   Alteration & Repairs
